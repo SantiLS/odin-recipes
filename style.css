@@ -1,4 +1,15 @@
-.div-red {
+.container {
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 10%;
+  margin-bottom: 5%;
+}
+
+a {
+  text-decoration: none;
+}
+
+.exercise-1.div-red {
   background-color: red;
   color: white;
   font-family: 'Courier New', Courier, monospace;
